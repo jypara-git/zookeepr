@@ -128,6 +128,15 @@
         "goofy"
       ],
       "id": "12"
+    },
+    {
+      "name": "pilpo",
+      "species": "Cat",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "13"
     }
   ]
 }
